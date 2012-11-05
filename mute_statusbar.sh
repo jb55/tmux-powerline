@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/local/Cellar/bash/4.2.37/bin/bash
 # Toggles the visibility of a statusbar side.
 
 # The powerline root directory.

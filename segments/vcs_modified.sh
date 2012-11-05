@@ -9,8 +9,8 @@ source "$segment_path/../lib.sh"
 tmux_path=$(get_tmux_cwd)
 cd "$tmux_path"
 
-mod_symbol="﹢"
-git_colour="colour5"
+mod_symbol="+"
+git_colour="colour249"
 git_svn_colour="colour34"
 svn_colour="colour220"
 hg_colour="colour45"
